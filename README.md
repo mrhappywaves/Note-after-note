@@ -8,15 +8,15 @@
 - [More information](#more-information)
 
 ## Description
-Node app that allows note taking using your favorite web browser. You can run the app locally or deploy to service like heroku.
+Note-after-note app allows to add, view and delete notes whenever note taking is something a user is looking forward to. User can run the app locally or deploy to a service such as  [Heroku](https://dashboard.heroku.com/).
 
 ## Installation
 - Clone the repository
 - Run 'npm i' to install dependencies
 
 ## How to use
-The application can be launched locally with 'node app.js' The app is listening on port 3001.
-You can add and delete notes as well as browse the existing notes. 
+1. The application can be launched locally with 'node app.js' The app is listening on port 3001.
+2. User can add, view and delete notes. 
 
 You can check out the deployed application running on heroku [here](https://note-after-note.herokuapp.com/).
 
